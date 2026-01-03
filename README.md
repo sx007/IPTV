@@ -28,6 +28,7 @@ https://sx007.github.io/IPTV/Tricolor_Sport.xspf
 ## Список плейлистов отдельно для каждого канала
 Бывает, что видеопроигрыватель не поддерживает плейлист со списокм каналов, но позволяет воспроизводить только отдельный поток (трансляцию). Для этого ниже расположен список каналов и ссылка на плейлист отдельного канала. Находите нужный канал, копируете ссылку и вставляете в видеопроигрыватель.
 <details><summary>Список каналов Триколор Спорт отдельно:</summary>
+В Windows 10 есть встроенный видеопроигрыватель "Медиаплеер", в котором на Главной странице, рядом с кнопкой Открыть файлы, стрелочка вниз, где выбираем "Открыть URL адрес". Вставляем ссылку на определенный канал.
 
 ### Триколор Спорт 1:
 ```
@@ -53,7 +54,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_khokkey
 ```
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_khokkey6.m3u8&serviceArea=MSK-SA-1
 ```
-### Триколор Спорт 7:
+### Триколор Спорт 7
 ```
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_khokkey7.m3u8&serviceArea=MSK-SA-1
 ```
